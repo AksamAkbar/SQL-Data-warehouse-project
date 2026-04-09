@@ -38,9 +38,9 @@ This project involves:
 -----------------------------------
 Everything is for Free!
 
-- Datasets: Access to the project dataset (csv files).
-- DrawIO: Design data architecture, models, flows, and diagrams.
-- Notion Project Steps: Access to All Project Phases and Tasks.
+- [Datasets](): Access to the project dataset (csv files).
+- [DrawIO](): Design data architecture, models, flows, and diagrams.
+- [Notion Project Steps](): Access to All Project Phases and Tasks.
 
 ---------------------------------------------------------
 🚀 Project Requirements
